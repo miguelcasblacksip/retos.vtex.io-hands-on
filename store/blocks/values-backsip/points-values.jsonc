@@ -1,0 +1,10 @@
+{
+    "rich-text#points-values": {
+        "title": "editar Valores",
+        "props": {
+            "textAlignment": "LEFT",
+            "textPosition": "LEFT",
+            "text": "-  Perseguimos el WOW de nuestros clientes \n- Perseguimos el aprendizaje y el crecimiento\n-   Somos apasionados y disciplinados\n-   Somos un equipo\n-    Somos orientas a resultados"
+        }
+    }
+}

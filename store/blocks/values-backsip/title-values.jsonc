@@ -1,0 +1,10 @@
+{
+    "rich-text#title-values": {
+        "title": "editar titutlo valores",
+        "props": {
+            "textAlignment": "CENTER",
+            "textPosition": "CENTER",
+            "text": "**Nuestros Valores**"
+        }
+    }
+}

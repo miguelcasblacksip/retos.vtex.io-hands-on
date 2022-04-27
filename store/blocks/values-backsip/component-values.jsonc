@@ -1,0 +1,15 @@
+{
+    "flex-layout.row#values-backsip": {
+        "title": "Valores Blacksip",
+        "children": [
+            "flex-layout.col#values-backsip"
+        ]
+    },
+    "flex-layout.col#values-backsip": {
+        "title": "ver",
+        "children": [
+            "rich-text#title-values",
+            "rich-text#points-values"
+        ]
+    }
+}
