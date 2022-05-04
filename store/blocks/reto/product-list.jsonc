@@ -1,0 +1,6 @@
+{
+    "list-context.product-list#products": {
+        "blocks": ["product-summary.shelf"],
+        "children": ["slider-layout#main-1"]
+    }
+}
