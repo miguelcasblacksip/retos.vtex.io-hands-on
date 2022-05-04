@@ -1,0 +1,25 @@
+{
+    "responsive-layout.desktop#features":{
+        "title": "Escritorio",
+        "children":[
+            "flex-layout.row#food-features-1-desk",
+            "flex-layout.row#food-features-2-desk"
+        ]
+    },
+    "flex-layout.row#food-features-1-desk":{
+        "title": "primera sección",
+        "children":[
+            "flex-layout.col#feature-1",
+            "flex-layout.col#feature-2",
+            "flex-layout.col#feature-3"
+        ]
+    },
+    "flex-layout.row#food-features-2-desk":{
+        "title": "segunda sección",
+        "children":[
+            "flex-layout.col#feature-4",
+            "flex-layout.col#feature-5",
+            "flex-layout.col#feature-6"
+        ]
+    } 
+}

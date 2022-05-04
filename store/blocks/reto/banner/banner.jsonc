@@ -1,0 +1,14 @@
+{
+    "flex-layout.col#food-banner":{
+        "title": "banner receta",
+        "children":[
+            "image#food"
+        ]
+    },
+    "image#food":{
+        "title": " editar banner receta",
+        "props": {
+            "src": "https://i.imgur.com/ipQipBB.jpeg"
+          }
+    }
+}

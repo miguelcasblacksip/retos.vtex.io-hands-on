@@ -1,0 +1,22 @@
+{
+    "flex-layout.row#food-feature": {
+        "title": "ver opciones",
+        "children": [
+            "image#feature",
+            "rich-text#title-feature"
+        ]
+    },
+    "image#feature": {
+        "title": "imagen de la caracteristica",
+        "props": {
+            "src": "https://imgur.com/RWj3DiZ.png",
+            "maxHeight": 24
+        }
+    },
+    "rich-text#title-feature": {
+        "title": "titulo de la caracteristica",
+        "props": {
+            "text": "60 minutos"
+        }
+    }
+}

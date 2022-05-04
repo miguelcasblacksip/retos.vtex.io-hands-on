@@ -1,0 +1,9 @@
+{
+    "flex-layout.row#food":{
+        "title": "receta",
+        "children":[
+            "flex-layout.col#food-banner",
+            "flex-layout.col#food-description"
+        ]
+    }
+}
