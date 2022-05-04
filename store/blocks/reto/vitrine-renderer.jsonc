@@ -1,0 +1,8 @@
+{
+    "list-context-renderer#vitrine": {
+        "props": {
+            "listElement": "div",
+            "itemElement": "div"
+        }
+    }
+}
