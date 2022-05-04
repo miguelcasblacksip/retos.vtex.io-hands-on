@@ -1,0 +1,21 @@
+{
+    "flex-layout.col#category-title":{
+        "title": "ver opciones categoria",
+        "children":[
+            "rich-text#categories-title",
+            "rich-text#link"
+        ]
+    },
+    "rich-text#categories-title":{
+        "title": "titulo",
+        "props":{
+            "text":"#### ¿QUE ESTAS  \n  BUSCANDO?"
+        }
+    },
+    "rich-text#link":{
+        "title":"link",
+        "props":{
+            "text":"[VER TODO]((https://)"
+        }
+    }
+}

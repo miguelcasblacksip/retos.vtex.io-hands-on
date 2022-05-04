@@ -1,0 +1,9 @@
+{
+    "flex-layout.col#category-4":{
+        "title": "categoria 4",
+        "children":[
+            "image#categories",
+            "rich-text#title-categories"
+        ]
+    }
+}

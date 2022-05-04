@@ -1,0 +1,14 @@
+{
+    "image#categories":{
+        "title": "imagen categoría",
+        "props": {
+            "src": "https://plchldr.co/i/93x93?&bg=000&fc=fff"
+          }
+    },
+    "rich-text#title-categories":{
+        "title": "titulo categoria",
+        "props":{
+            "text":"Cuidado Capilar"
+        }
+    }
+}

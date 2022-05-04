@@ -1,0 +1,8 @@
+{
+    "flex-layout.col#promise-2":{
+        "title": "promesa 2",
+        "children":[
+            "flex-layout.row#promise-content"
+        ]
+    }
+}

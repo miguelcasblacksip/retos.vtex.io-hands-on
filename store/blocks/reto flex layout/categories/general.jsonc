@@ -1,0 +1,16 @@
+{
+    "flex-layout.row#categories":{
+        "title": "categorías",
+        "children":[
+            "flex-layout.col#category-title",
+            "flex-layout.col#category-1",
+            "flex-layout.col#category-2",
+            "flex-layout.col#category-3",
+            "flex-layout.col#category-4",
+            "flex-layout.col#category-5",
+            "flex-layout.col#category-6",
+            "flex-layout.col#category-7",
+            "flex-layout.col#category-8"
+        ]
+    }
+}
