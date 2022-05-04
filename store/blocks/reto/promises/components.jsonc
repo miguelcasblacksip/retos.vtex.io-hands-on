@@ -1,0 +1,21 @@
+{
+    "flex-layout.row#promise-content": {
+        "title": "ver opciones de edición promesa",
+        "children": [
+            "image#promise",
+            "rich-text#promise-title"
+        ]
+    },
+    "image#promise": {
+        "title": "iamgen de la promesa",
+        "props": {
+            "src": "https://plchldr.co/i/40x50?&bg=ff0000%20&fc=fff"
+        }
+    },
+    "rich-text#promise-title": {
+        "title": "titulo promesa",
+        "props": {
+            "text": "Entregas en \n **45 mins**"
+        }
+    }
+}
