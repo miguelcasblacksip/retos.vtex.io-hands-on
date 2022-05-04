@@ -1,0 +1,35 @@
+{
+  "list-context.image-list#main-banner": {
+    "title": "lista de imagenes",
+    "children": [
+      "slider-layout#main-banner"
+    ],
+    "props": {
+      "preload": true,
+      "height": 650,
+      "images": [
+        {
+          "image": "https://i.imgur.com/oY7YEDM.jpeg",
+          "description": "imagen 1",
+          "link": {
+            "url": "/categoria-1"
+          }
+        },
+        {
+          "image": "https://i.imgur.com/oY7YEDM.jpeg",
+          "description": "Imagen 2",
+          "link": {
+            "url": "/categoria-2"
+          }
+        },
+        {
+          "image": "https://i.imgur.com/oY7YEDM.jpeg",
+          "description": "Imagen 3",
+          "link": {
+            "url": "/categoria-3"
+          }
+        }
+      ]
+    }
+  }
+}

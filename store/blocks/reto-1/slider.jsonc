@@ -1,0 +1,13 @@
+{
+    "slider-layout#main-banner": {
+        "props": {
+          "itemsPerPage": 1,
+          "autoplay": {
+            "timeout": 3500
+          },
+          "infinite": true,
+          "showNavigationArrows": "always",
+          "showPaginationDots": "always"
+        }
+      }
+}

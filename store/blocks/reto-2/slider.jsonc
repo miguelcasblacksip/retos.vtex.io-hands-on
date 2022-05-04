@@ -1,0 +1,38 @@
+{
+    "main-banner-video": {
+        "props": {
+            "itemsPerPage": {
+                "desktop": 1,
+                "tablet": 1,
+                "phone": 1
+            },
+            "autoplay": {
+                "timeout": 3500
+            },
+            "infinite": true,
+            "showNavigationArrows": "always",
+            "showPaginationDots": "always"
+        },
+        "children": [
+            "link#video"
+        ]
+    },
+    "link#video": {
+        "props": {
+            "href": "/video"
+        },
+        "children": [
+            "video#content"
+        ]
+    },
+    "video#content": {
+        "props": {
+            "width": "100%",
+            "height": "600px",
+            "loop": false,
+            "autoPlay": true,
+            "muted": false,
+            "src": "https://blacksip.com/imgload/Forus-UY/videos/V%C3%ADdeo-intervenci%C3%B3n-botas.mp4"
+        }
+    }
+}
